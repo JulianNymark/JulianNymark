@@ -10,3 +10,10 @@ This text is a test of your patience!
 - 📫 **How to reach me:** find my contact info somewhere on juliannymark.com, it's a treasure hunt!
 - ⚡ **Fun fact (not about me):** you can make a section like this one on your github profile by making a repository named after your account.
 - ❓ **Bonus fun fact (this time it's about me):** ... I like to try and deep dive into peoples custom websites, and then try to learn a fair bit about how they speak, how they think, and try to absorb the best bits for myself! Actually... this just describes "browsing the web" so scratch that... I'll come up with a better fun fact...
+
+## things to avoid
+
+- the [XY problem](https://en.wikipedia.org/wiki/XY_problem)
+- trusting semver major versions to be backwards compatible! (humans created that version bump). What do we do then!? we see if it works! (aka. testing)
+- assumptions in general (kind of a repetition of the XY problem)
+- repetition (unless... it's the _good_ kind of repetition)
