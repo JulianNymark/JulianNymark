@@ -16,4 +16,4 @@ This text is a test of your patience!
 - the [XY problem](https://en.wikipedia.org/wiki/XY_problem)
 - trusting semver major versions to be backwards compatible! (humans created that version bump). What do we do then!? we see if it works! (aka. testing)
 - assumptions in general (kind of a repetition of the XY problem)
-- repetition (unless... it's the _good_ kind of repetition)
+- repetition (unless... it's the _good_ kind of repetition. As we have all said to each other at one point: Forced DRY-ing is the gateway drug to code golf!)
